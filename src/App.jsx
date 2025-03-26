@@ -48,7 +48,7 @@ const App = () => {
                 </h2>
                 <InternshipItem
                   imageSrc="image/metacrafter.jpeg"
-                  title="Training"
+                  title="Web3 Developer trainee"
                   company="Metacrafter"
                   date="June 2024 - Aug 2024"
                 />
